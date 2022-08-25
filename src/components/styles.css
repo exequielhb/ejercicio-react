@@ -1,0 +1,20 @@
+button {
+    background-color: purple;
+    color: white;
+    font-size: 1.5em;
+    padding: 14px 20px;
+    margin: 4px;
+    border: none;
+    border-radius: 23px;
+    cursor: pointer;
+    margin-left: 2%;
+}
+
+h1 {
+    margin-left: 2%;
+    background-color: #100720;
+    padding: 12px;
+    width: 15%;
+    border-radius: 12px;
+    color: white;
+}
